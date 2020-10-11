@@ -1,0 +1,10 @@
+# objects
+*.o
+*.mod
+*.smod
+
+# binaries
+bintools
+
+# emacs backups
+*~
